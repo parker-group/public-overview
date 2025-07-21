@@ -11,7 +11,6 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 ## Data Analysis and Modeling
 - [Variogram Basics Part 1](https://github.com/parker-group/variogram_tutorial1): An introduction to variograms and spatial dependence.
 - [Standard Deviational Ellipse (SDE) Tool](https://github.com/parker-group/SDEtool): Computes 1, 2, and 3 SD ellipses for spatial point patterns by group, including weighted options and orientation via the covariance matrix. Implements √2 scaling based on Yuill (1971) [DOI: 10.2307/490885](https://doi.org/10.2307/490885).
-- [Create standard deviational ellipses from point data! Also spit out '.shp's if you want!!](https://github.com/parker-group/SDEtool) - This is an occasionaly useful way for summarizing distributions of point data across a landscape.
 
 ## Public Health and Environmental Data
 - [Air Raids in Yemen](https://github.com/parker-group/airraids-Yemen-LancetGH): Dataset compiled from various sources detailing air raids in Yemen.
