@@ -15,5 +15,5 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 ## Public Health and Environmental Data
 - [Air Raids in Yemen](https://github.com/parker-group/airraids-Yemen-LancetGH): Dataset compiled from various sources detailing air raids in Yemen.
 - [Leishmaniasis and Conflict](https://github.com/parker-group/leish-PNTD): Dataset for the study on the association between conflict, environmental factors, and leishmaniasis incidence.
-- [Dire Dawa Seroprevalence Survey](https://github.com/parker-group/DireDawa_Seroepi): Data repository for the seroprevalence survey conducted in Dire Dawa in 2024.
+- [Dire Dawa Seroprevalence Survey](https://github.com/parker-group/DireDawa_Seroepi): Data repository for a seroprevalence survey conducted in Dire Dawa in 2024.
 - [Nighttime Lights and Conflict](https://github.com/parker-group/NTL_conflict): Data and code assessing the use of nighttime lights as a tool for measuring conflict in Yemen and Ukraine.
