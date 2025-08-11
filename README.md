@@ -2,7 +2,7 @@
 
 Welcome to the Parker Group's public repository overview. Below is a curated list of our public projects, organized by category.
 
-## Public Health and Environmental Data and Analayses
+## Public Health and Environmental Data and Analyses
 - [Air Raids in Yemen](https://github.com/parker-group/airraids-Yemen-LancetGH): Dataset compiled from various sources detailing air raids in Yemen.
 - [Leishmaniasis and Conflict](https://github.com/parker-group/leish-PNTD): Dataset for the study on the association between conflict, environmental factors, and leishmaniasis incidence.
 - [Dire Dawa Seroprevalence Survey](https://github.com/parker-group/DireDawa_Seroepi): Data repository for a seroprevalence survey conducted in Dire Dawa in 2024.
