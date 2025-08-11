@@ -2,6 +2,9 @@
 
 Welcome to the Parker Group's public repository overview. Below is a curated list of our public projects, organized by category.
 
+## Lab Governance
+- [Lab Values & Expectations](https://github.com/parker-group/lab-values) – Our guiding principles and expectations.
+
 ## Web Development
 - [Parker Group Webpage](https://github.com/parker-group/parker-group.github.io): The official Parker Group website.
 
@@ -18,3 +21,10 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 - [Leishmaniasis and Conflict](https://github.com/parker-group/leish-PNTD): Dataset for the study on the association between conflict, environmental factors, and leishmaniasis incidence.
 - [Dire Dawa Seroprevalence Survey](https://github.com/parker-group/DireDawa_Seroepi): Data repository for a seroprevalence survey conducted in Dire Dawa in 2024.
 - [Nighttime Lights and Conflict](https://github.com/parker-group/NTL_conflict): Data and code assessing the use of nighttime lights as a tool for measuring conflict in Yemen and Ukraine.
+
+---
+
+### GAM in the Wild
+<img src="https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/WildGAM.jpg" alt="Daniel standing next to graffiti saying GAM" width="400">
+
+We use generalized additive models (GAMs) a lot in our work — here’s a rare sighting of a **GAM in the wild**.
