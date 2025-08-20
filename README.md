@@ -20,7 +20,7 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 - [Parker Group Webpage](https://github.com/parker-group/parker-group.github.io): The official Parker Group website.
 
 ## Lab Governance
-- [Lab Values & Expectations](https://github.com/parker-group/lab-values) – Our guiding principles and expectations.
+- [Lab Values & Expectations](https://github.com/parker-group/parker-lab-values) – Our guiding principles and expectations.
 
 ---
 
