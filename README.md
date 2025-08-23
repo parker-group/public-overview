@@ -11,6 +11,7 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 ## Basic Spatial Data Analysis and Modeling
 - [Variogram Basics Part 1](https://github.com/parker-group/variogram_tutorial1): An introduction to variograms and spatial dependence.
 - [Spatial Correlograms Part 1](https://github.com/parker-group/spcorrelogram_tutorial1): An introduction to measuring spatial dependence through correlograms. Compare to the variogram.
+- [Spatial Dependence Part 2](https://github.com/parker-group/spatial_depend_2): Apply correlograms and variograms to your own CSV data (with included dummy datasets). Demonstrates binning, Moran’s I, Geary’s C, and semivariograms side by side.
 - [Standard Deviational Ellipse (SDE) Tool](https://github.com/parker-group/SDEtool): Computes 1, 2, and 3 SD ellipses for spatial point patterns by group, including weighted options and orientation via the covariance matrix. Implements √2 scaling based on Yuill (1971) [DOI: 10.2307/490885](https://doi.org/10.2307/490885).
 
 ## Earth Observation and Remote Sensing
