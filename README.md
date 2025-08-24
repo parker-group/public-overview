@@ -15,7 +15,8 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 - [Standard Deviational Ellipse (SDE) Tool](https://github.com/parker-group/SDEtool): Computes 1, 2, and 3 SD ellipses for spatial point patterns by group, including weighted options and orientation via the covariance matrix. Implements √2 scaling based on Yuill (1971) [DOI: 10.2307/490885](https://doi.org/10.2307/490885).
 
 ## Earth Observation and Remote Sensing
-- [Kinshasa Earth Observation Data and Analysis](https://github.com/parker-group/Kinshasa_EO): Data and analysis related to Earth observation for Kinshasa.
+- [Earth Observation How-To](https://github.com/parker-group/earth-observation-howto): Practical step-by-step guides for EO workflows (NOAA ISD weather station data, ERA5 climate reanalysis, QGIS zonal statistics, etc.).  
+- [Kinshasa Earth Observation Data and Analysis](https://github.com/parker-group/Kinshasa_EO): Case study repository with end-to-end EO data processing and visualization for Kinshasa, DRC.
 
 ## Web Development
 - [Parker Group Webpage](https://github.com/parker-group/parker-group.github.io): The official Parker Group website.
