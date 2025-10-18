@@ -23,10 +23,10 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 
 ## Lab Governance
 - [Lab Values & Expectations](https://github.com/parker-group/parker-lab-values) – Our guiding principles and expectations.
-
+- [Lab meeting schedule](https://github.com/parker-group/lab-meetings) - Our schedule of speakers/readings for lab meetings.
 ---
 
 ### GAM in the Wild
-<img src="https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/WildGAM.jpg" alt="Daniel standing next to graffiti saying GAM" width="400">
+<img src="https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/WildGAM.jpg" alt="Daniel standing next to graffiti saying GAM" width="400">  [spotted somewhere around here: 34.6272, -115.9901]
 
 We use generalized additive models (GAMs) a lot in our work — here’s a rare sighting of a **GAM in the wild**.
