@@ -18,9 +18,6 @@ Welcome to the Parker Group's public repository overview. Below is a curated lis
 - [Earth Observation How-To](https://github.com/parker-group/earth-observation-howto): Practical step-by-step guides for EO workflows (NOAA ISD weather station data, ERA5 climate reanalysis, QGIS zonal statistics, etc.).  
 - [Kinshasa Earth Observation Data and Analysis](https://github.com/parker-group/Kinshasa_EO): Case study repository with end-to-end EO data processing and visualization for Kinshasa, DRC.
 
-## Web Development
-- [Parker Group Webpage](https://github.com/parker-group/parker-group.github.io): The official Parker Group website.
-
 ## Lab Governance
 - [Lab Values & Expectations](https://github.com/parker-group/parker-lab-values) – Our guiding principles and expectations.
 - [Lab meeting schedule](https://github.com/parker-group/lab-meetings) - Our schedule of speakers/readings for lab meetings.
